@@ -1,7 +1,7 @@
 <script>
     import ELineChart from "$lib/components/ELineChart.svelte";
     import EGauge from "$lib/components/EGauge.svelte";
-    import EBoxPlot from "$lib/components/EBoxplot.svelte";
+    import EBoxPlot from "$lib/components/EBoxPlot.svelte";
     import ENightingale from "$lib/components/ENightingale.svelte";
     import DSlopeChart from "$lib/components/DSlopeChart.svelte";
 
