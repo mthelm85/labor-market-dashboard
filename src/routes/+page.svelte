@@ -238,7 +238,7 @@
         <!-- Industry Wage Distribution -->
         {#if industryBoxplotData.length > 0}
             <div class="card" style="margin-bottom: 2rem;">
-                <EBoxplot
+                <EBoxPlot
                     data={industryBoxplotData}
                     title="Wage Distribution by Industry"
                 />
@@ -270,7 +270,7 @@
         <!-- Occupation Wage Distribution -->
         {#if occupationBoxplotData.length > 0}
             <div class="card" style="margin-bottom: 2rem;">
-                <EBoxplot
+                <EBoxPlot
                     data={occupationBoxplotData}
                     title="Wage Distribution by Occupation"
                 />
