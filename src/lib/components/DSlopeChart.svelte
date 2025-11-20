@@ -228,7 +228,7 @@
     }
 
     svg text {
-        fill: #e6edf3;
+        fill: #b9bec2;
         font-size: 11px;
     }
 
@@ -236,7 +236,7 @@
     svg > g:first-of-type text {
         font-size: 14px;
         font-weight: 600;
-        fill: #e6edf3;
+        fill: #b9bec2;
     }
 
     svg > g:first-of-type line {

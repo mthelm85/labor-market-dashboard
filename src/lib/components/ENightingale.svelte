@@ -39,7 +39,7 @@
 				borderColor: '#30363d',
 				borderWidth: 1,
 				textStyle: {
-					color: '#e6edf3',
+					color: '#b9bec2',
 					fontFamily: 'Inter'
 				},
 				formatter: function(params) {
@@ -60,7 +60,7 @@
 					label: {
 						show: true,
 						position: 'outside',
-						color: '#e6edf3',
+						color: '#b9bec2',
 						fontFamily: 'Inter',
 						fontSize: 11,
 						formatter: '{b}'
